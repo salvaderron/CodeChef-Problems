@@ -1,2 +1,6 @@
-# This repository contains solutions to CodeChef problems in Python language or arrays, strings, sorting, and time complexity in their respective branches.
+This repository consists of Python programming solutions for the Sorting problems that are on CodeChef.
+
+**INSTRUCTION TO NAVIGATE:-** Just Press Ctrl+F and type your problem name, and you will get the solution.
+
+  **Have Fun with Learning**
 # CodeChef-Problems
